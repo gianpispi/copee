@@ -48,7 +48,7 @@
     {
       "name": "fileDirectory",
       "title": "File Directory",
-      "description": "Where the file gets saved",
+      "description": "Where the file gets saved. If empty or \"\\\", the temp directory will be used.",
       "type": "directory",
       "default": "",
       "required": false,
