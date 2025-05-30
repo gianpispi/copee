@@ -17,3 +17,5 @@ It generates a text file from last entry in your clipboard and pastes it into th
 - **File Name** is the name of the file that will be generated.
 - **Show the file in Finder** if checked will open the finder when the file is created.
 - **File Directory** the directory the file will be saved. By default and if empty or "\", the temp directory of the file system will be used.
+
+![](media/copee-video.mov)
