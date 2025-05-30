@@ -5,7 +5,7 @@ import { getPreferenceValues, showInFinder, showHUD, Clipboard } from "@raycast/
 
 export function writeContentToFile(content: string): string {
   const fileName = getPreferenceValues<ExtensionPreferences>().fileName;
-  var directory = getPreferenceValues<ExtensionPreferences>().fileDirectory;
+  let directory = getPreferenceValues<ExtensionPreferences>().fileDirectory;
 
   if (!directory || directory.trim() === "" || directory === "/") {
     directory = os.tmpdir();
