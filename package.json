@@ -5,6 +5,7 @@
   "description": "Copies text as txt file.",
   "icon": "extension-icon.png",
   "author": "gianpiero_spinelli",
+  "categories": ["Data", "Productivity"],
   "license": "MIT",
   "commands": [
     {
