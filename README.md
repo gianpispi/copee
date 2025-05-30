@@ -4,7 +4,7 @@ Copee provides three commands:
 ### Copy Text as File
 This copies the current selected text as file.
 
-### Make File from Clipboard
+### Generate File from Clipboard
 It generates and copies a text file from last entry in your clipboard.
       
 ### Paste File from Clipboard
