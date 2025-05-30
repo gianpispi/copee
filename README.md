@@ -1,4 +1,6 @@
 # Copee
+![](metadata/copee-1.png)
+
 Copee provides three commands:
 
 ### Copy Text as File
