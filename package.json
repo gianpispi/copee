@@ -9,19 +9,19 @@
   "commands": [
     {
       "name": "copy-text-as-file",
-      "title": "Copy text as file",
+      "title": "Copy Text as File",
       "description": "Copy current selected text as file",
       "mode": "no-view"
     },
     {
       "name": "make-file-from-clipboard",
-      "title": "Make file from clipboard",
+      "title": "Make File from Clipboard",
       "description": "Generates and copies the text file from last entry in clipboard",
       "mode": "no-view"
     },
     {
       "name": "paste-file-from-clipboard",
-      "title": "Paste file from clipboard",
+      "title": "Paste File from Clipboard",
       "description": "Generates and pastes the text file from last entry in clipboard",
       "mode": "no-view"
     }
